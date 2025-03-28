@@ -53,6 +53,9 @@ nav{
     & a:hover{
         color: rgba(31, 33, 172, 0.74);
         text-decoration: underline;
+        background-color: #066781;
+        transition: 0.3s;
+        border-radius: 5px;
     }
 }
 
